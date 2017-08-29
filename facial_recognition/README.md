@@ -1,4 +1,4 @@
-# Facial Recog
+# Facial Recognition
 Make sure to have python, dlib, and OpenFace installed!
 
 ```
